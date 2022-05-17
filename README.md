@@ -11,5 +11,7 @@ Parts below do not matter
 --RAM: 32GB
 --PSU: Asus TUF 650W
 
-# Everything works perfect, including Audio, IGPU, USB (3.0/2.0/TpyeA/TypeC)...
-# Airdrop, Sidecar (wired/wireless) and Handoff work perfect because of using BCM94360CD and IGPU is activated
+Everything works perfect, including Audio, IGPU, USB (3.0/2.0/TpyeA/TypeC)...
+--
+Airdrop, Sidecar (wired/wireless) and Handoff work perfect because of using BCM94360CD and IGPU is activated
+--
