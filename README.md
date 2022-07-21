@@ -3,7 +3,7 @@
 # Spec:
 - CPU: i5-10400
 - Motherboard: TUF GAMING B560M-PLUS WIFI
-- GPU: RX580
+- GPU: RX6600
 - WIFI + Bluetooth: BCM94360CD
 
 Parts below do not matter:
